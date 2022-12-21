@@ -41,7 +41,7 @@ jobs:
 
       - name: Build
         run: |
-          npm run build -- --prod
+          npm run gh-pages
 
       - name: Test
         run: |
