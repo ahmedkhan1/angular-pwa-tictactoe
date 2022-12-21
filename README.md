@@ -1,4 +1,4 @@
-# AngularTickTacToe
+# Angular Tick Tac Toe
 
 This is an Angular PWA project.
 
